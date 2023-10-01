@@ -17,5 +17,7 @@ public class GuessTheNumber {
                 System.out.println("Your guess is greater.");
         } while (guess != secretNumber);
 
+        System.out.println("thanks for using my app");
+
     }
 }
